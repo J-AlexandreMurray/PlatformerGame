@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/J-AlexandreMurray/The_Ryze">
-    <img src="preview/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/guy1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">The Ryze</h3>
