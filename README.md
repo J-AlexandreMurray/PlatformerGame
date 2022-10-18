@@ -88,7 +88,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://example.com)
+[Live Demo Link](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo.gif)
 
 
 <!-- GETTING STARTED -->
