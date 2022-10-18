@@ -26,7 +26,7 @@
   <h3 align="center">The Ryze</h3>
 
   <p align="center">
-    project_description
+    This is a very fun 2 dimensional platformer game with multiple playing levels. 
     <br />
     <a href="https://github.com/J-AlexandreMurray/The_Ryze"><strong>Explore the docs »</strong></a>
     <br />
@@ -114,13 +114,8 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo2.gif)
+[Live Demo Link](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo2.gif)
 
 
 
