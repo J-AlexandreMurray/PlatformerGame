@@ -1,10 +1,6 @@
 
 <br>
 
-<!-- CHANGE THE LINKS AS PER YOUR REQUIREMENTS -->
-<!-- YOU CAN REFER TO DEFAULT README PAGE FOR REFERENCE -->
-<!-- COLOR OF THE BADGES CAN ALSO BE MODIFIED BY ALTERING THE LINKS -->
-
 ![](https://img.shields.io/badge/Excitement-High-red)
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
@@ -88,6 +84,7 @@
 
 ## Live Demo
 
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo.gif)
 [Live Demo Link](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo.gif)
 
 
