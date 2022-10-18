@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](preview/preview.png)](https://example.com)
+[![Product Name Screen Shot](preview/TheRyzeStart.png)](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -86,8 +86,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
+* [Python]()
+* [Pygame]()
 
 
 <!-- LIVE DEMO -->
@@ -163,7 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+J. Alexandre Murray - [@ProjectZilart](https://twitter.com/ProjectZilart)
 
 Project Link: [https://github.com/J-AlexandreMurray/The_Ryze](https://github.com/J-AlexandreMurray/The_Ryze)
 
