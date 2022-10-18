@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](preview/TheRyzeStart.png)](https://example.com)
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/TheRyzeStart.PNG)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
