@@ -153,13 +153,3 @@ J. Alexandre Murray - [@ProjectZilart](https://twitter.com/ProjectZilart)
 
 Project Link: [https://github.com/J-AlexandreMurray/The_Ryze](https://github.com/J-AlexandreMurray/The_Ryze)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-
-
-
