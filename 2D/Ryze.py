@@ -16,7 +16,7 @@ screen_width = 1000
 screen_height = 1000
 
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Happy Birthday Julia :D')
+pygame.display.set_caption('It is time for change...')
 
 
 # define font
