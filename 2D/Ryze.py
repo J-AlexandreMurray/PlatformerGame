@@ -16,7 +16,7 @@ screen_width = 1000
 screen_height = 1000
 
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('It is time for change...This game will become a Sidescroller!')
+pygame.display.set_caption('A new change is coming - sidescroller...')
 
 
 # define font
@@ -73,7 +73,7 @@ def reset_level(level):
     if path.exists(f'level{level}_data'):
         pickle_in = open(f'level{level}_data', 'rb')
         world_data = pickle.load(pickle_in)
-    world = World(world_data)
+        world = World(world_data)
 
     return world
 
@@ -422,7 +422,7 @@ while run:
             main_menu = False
     else:
 
-        World.draw()
+        World.draw(screen)
 
         if game_over == 0:
             blob_group.update()
