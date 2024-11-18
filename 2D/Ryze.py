@@ -16,7 +16,7 @@ screen_width = 1000
 screen_height = 1000
 
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('It is time for change...')
+pygame.display.set_caption('It is time for change...This game will become a Sidescroller!')
 
 
 # define font
@@ -400,7 +400,7 @@ coin_group.add(score_coin)
 if path.exists(f'level{level}_data'):
     pickle_in = open(f'level{level}_data', 'rb')
     world_data = pickle.load(pickle_in)
-world = World(world_data)
+    world = World(world_data)
 
 # create buttons
 restart_button = Button(screen_width // 2 - 50, screen_height // 2 + 100, restart_img)
@@ -422,7 +422,7 @@ while run:
             main_menu = False
     else:
 
-        world.draw()
+        World.draw()
 
         if game_over == 0:
             blob_group.update()
